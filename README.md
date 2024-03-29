@@ -15,5 +15,4 @@ Setup Instructions
 1. Development Environment
 Ensure a C++ compiler is installed on your system. If not, install one compatible with your operating system.
 The project was developed using Visual Studio IDE, so it's recommended to use Visual Studio for the best compatibility.
-2. Clone the Repository
-Clone or download the project repository using the following command:
+
